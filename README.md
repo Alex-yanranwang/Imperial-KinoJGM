@@ -6,9 +6,12 @@ Video:
 https://user-images.githubusercontent.com/49935737/160297803-3d03811a-4c64-49db-b24c-601b299b29bd.mp4
 
 
+
+
+
 <p align="center">
-  <img src="wireless_sensors.jpg" width = "390" height = "319.7"/>
-  <img src="DJI_M100.jpg" width = "390" height = "240"/>
+  <img src="wireless_sensors.jpg" width = "500" height = "519.7"/>
+  <img src="DJI_M100.jpg" width = "500" height = "390"/>
 </p>
 
 ## Reference:

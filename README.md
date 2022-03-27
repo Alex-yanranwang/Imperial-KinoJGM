@@ -3,9 +3,8 @@ Code for ICRA 2022 paper - KinoJGM: A framework for efficient and accurate quadr
 
 Video:
 
-https://user-images.githubusercontent.com/6877923/115474571-03c75800-a23e-11eb-8096-8973aad5fa9f.mp4
+https://user-images.githubusercontent.com/49935737/160297803-3d03811a-4c64-49db-b24c-601b299b29bd.mp4
 
-https://github.com/Alex-yanranwang/Imperial-KinoJGM/blob/c378cdf67b40191ac20cbfdf0850b5ceea9efed1/video-full.mp4
 
 <p align="center">
   <img src="DJI_M100.jpg" width = "390" height = "240"/>

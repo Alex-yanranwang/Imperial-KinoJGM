@@ -10,8 +10,8 @@ https://user-images.githubusercontent.com/49935737/160297803-3d03811a-4c64-49db-
 
 
 <p align="center">
-  <img src="wireless_sensors.jpg" width = "500" height = "519.7"/>
-  <img src="DJI_M100.jpg" width = "500" height = "390"/>
+  <img src="docs/wireless_sensors.jpg" width = "500" height = "519.7"/>
+  <img src="docs/DJI_M100.jpg" width = "500" height = "390"/>
 </p>
 
 ## Reference:

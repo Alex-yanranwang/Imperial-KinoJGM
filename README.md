@@ -1,6 +1,10 @@
 # Imperial-KinoJGM
 Code for ICRA 2022 paper - KinoJGM: A framework for efficient and accurate quadrotor trajectory generation and tracking in dynamic environments
 
+Mixture Variants:
+
+https://user-images.githubusercontent.com/6877923/115474571-03c75800-a23e-11eb-8096-8973aad5fa9f.mp4
+
 https://github.com/Alex-yanranwang/Imperial-KinoJGM/blob/1ae6042e8a7dbb22f81f40a5995847085d13d779/video-full.mp4
 
 <p align="center">

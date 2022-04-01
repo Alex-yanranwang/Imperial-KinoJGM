@@ -8,8 +8,8 @@ https://user-images.githubusercontent.com/49935737/161355047-9485678f-32f8-456e-
 
 
 <p align="center">
-  <img src="docs/wireless_sensors.jpg" width = "500" height = "519.7"/>
-  <img src="docs/DJI_M100.jpg" width = "500" height = "390"/>
+  <img src="docs/small_drone.jpg" width = "500" height = "519.7"/>
+  <img src="docs/dji_m100.jpg" width = "500" height = "390"/>
 </p>
 
 ## Reference:
